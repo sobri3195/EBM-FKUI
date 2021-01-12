@@ -1,7 +1,7 @@
 
 Evidence-Based Medicine FKUI
 ============================
-Created by Muhammad Sobri Maulana, CEH, OSCP
+Created by Muhammad Sobri Maulana
 
 Evidence-Based Medicine and journal/database crawler. Better documentation is in the making.
 
